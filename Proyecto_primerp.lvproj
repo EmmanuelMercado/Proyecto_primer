@@ -13,12 +13,14 @@
 		<Item Name="Modules" Type="Folder">
 			<Item Name="ACQUISITION.lvlib" Type="Library" URL="../Libraries/ACQUISITION/ACQUISITION.lvlib"/>
 			<Item Name="ANALISIS .lvlib" Type="Library" URL="../Libraries/ANALISIS/ANALISIS .lvlib"/>
+			<Item Name="CONFIG .lvlib" Type="Library" URL="../Libraries/CONFIG/CONFIG .lvlib"/>
 			<Item Name="Mensajes .lvlib" Type="Library" URL="../Libraries/Mensajes/Mensajes .lvlib"/>
 			<Item Name="UI.lvlib" Type="Library" URL="../Libraries/UI/UI.lvlib"/>
 		</Item>
 		<Item Name="Testers" Type="Folder">
 			<Item Name="Test ACQUISITION API.vi" Type="VI" URL="../Libraries/ACQUISITION/Test ACQUISITION API.vi"/>
 			<Item Name="Test ANALISIS  API.vi" Type="VI" URL="../Libraries/ANALISIS/Test ANALISIS  API.vi"/>
+			<Item Name="Test CONFIG  API.vi" Type="VI" URL="../Libraries/CONFIG/Test CONFIG  API.vi"/>
 			<Item Name="Test Mensajes  API.vi" Type="VI" URL="../Libraries/Mensajes/Test Mensajes  API.vi"/>
 			<Item Name="Test UI API.vi" Type="VI" URL="../Libraries/UI/Test UI API.vi"/>
 		</Item>
